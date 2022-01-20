@@ -18,9 +18,9 @@
 * GIT - https://www.udemy.com/course/git-e-github
 
 * HTML & CSS & JS
-** Curso em Vídeo - https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
-** Curso em Vídeo - https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s
-** Curso em Vídeo - https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ
+> Curso em Vídeo - https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+> Curso em Vídeo - https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s
+> Curso em Vídeo - https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ
 
 
 ## COMPLETE RECOMENDED COURSES
